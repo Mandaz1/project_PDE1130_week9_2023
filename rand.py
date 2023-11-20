@@ -1,4 +1,4 @@
 import random
 
 x = random.random()
-print(x)
+print("the random number is ", x)
